@@ -1,6 +1,6 @@
 <?php
 
-echo "this is a new test file for test";
+echo "this is a new test file for test";//
 
 
 
