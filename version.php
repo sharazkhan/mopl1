@@ -1,1 +1,4 @@
-Version 1.0
+<?php
+ echo "bcg1";
+
+?>
